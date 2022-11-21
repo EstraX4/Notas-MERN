@@ -1,4 +1,4 @@
-<br> Espacio entre lineas (Completa la linea)
+"<br> Espacio entre lineas (Completa la linea)
 <h1></h1> (Titulo)
 <h2></h2><h3></h3><h4></h4><h5></h5><h6></h6> (Tamaños de Titulos)
 <!DOCTYPE html> Define que es la ultima versión de html (HTML5)
@@ -28,7 +28,7 @@ Lorem + TAB = Texto Random
 <body>
     
 </body>
-</html>
+</html>"
 
 CEO: Posicionamiento web en buscadores, Para cuando busquemos nuestra pagina salga la nuestra con mejor visibilidad.
 
