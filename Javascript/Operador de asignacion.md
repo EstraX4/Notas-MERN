@@ -1,0 +1,22 @@
+## OPERADOR DE ASIGNACIÓN
+Un operador de asignación asigna un valor al operando de la izquierda basado en el valor del operando de la derecha.
+ 
+ 
+
+    |Nombres_______________________________|Abrev   |
+    |- Asignación                          |x = y   | 
+    |- Asignación de Adicción              |x += y  | 
+    |- Asignación de Sustracción           |x -= y  |
+    |- Asignación de Multiplicación        |x *= y  |
+    |- Asignación de División              |x /= y  |
+    |- Asignación de Resta                 |x %= y  |
+    |- Asignación de Exponenciación        |x **= y |
+    |- "" de desplazamiento a la izquierda |x <<= y |
+    |- "" de desplazamiento a la derecha   |x >>= y |
+	|- "" sin signo de desplazamiento a la |x >>= y | 
+	|  derecha                             |x >>>= y|
+	|- Asignación AND					   |x &= y  |
+	|- Asignación XOR					   |x ^= y  |
+	|- Asignación OR					   |x |= y  |
+
+`document.write (numero)`  -> Lo escribe en la pantalla.
