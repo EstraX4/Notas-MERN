@@ -20,4 +20,4 @@ Como parte de este proceso, el navegador crea **2 Arboles**:
 El DOM corresponde al arbol para el Html.
 Y El CSSOM corresponde al arbol para el CSS.
 
-<img href="assets/DOM.png" alt="DOM">
+<img src="assets/DOM.png" alt="DOM">
