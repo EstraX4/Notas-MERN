@@ -72,7 +72,7 @@
   
 **(tambien funciona con clases)**
 
-## // Pseudo-Clases
+## Pseudo-Clases
 
     p:hover {
 	    color:red; 
