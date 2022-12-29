@@ -93,3 +93,8 @@ Cuando definas una variable de tipo de dato  `number`, es preferible que el nomb
 let myNumber: number = 20; // Buena practica.
 let otherNumber: Number = 20; // Mala practica.
 ```
+
+> Tip: Si no quieres ir ejecutando todos los archivos, existe una extensión que te da los valores en tiempo real, se llama Quokka y es extremadamente útil para este tipo de cosas.
+> 
+> Solo la instalas y en el archivo que quieres que funcione presionas
+> “F1” y eliges “Quokka: start on current file” es todo.
